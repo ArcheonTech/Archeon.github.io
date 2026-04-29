@@ -25,7 +25,7 @@ function Section({ id, title, subtitle, children, bleed = false }: React.PropsWi
 }
 
 export function HomePage() {
-  const mailto = `mailto:davalosedu515@trinity.edu?subject=Collaboration%20with%20Archeon%20Labs&body=Hi%20Prof.%20Davalos%2C%0D%0A%0D%0AI%27m%20reaching%20out%20about%20collaborating%20with%20Archeon%20Labs.%0D%0A%0D%0A[Please%20describe%20your%20project%20or%20interest...]%0D%0A`;
+  const mailto = `mailto:davalosedu515@trinity.edu?subject=Collaboration%20with%20Spiral%20Labs&body=Hi%20Prof.%20Davalos%2C%0D%0A%0D%0AI%27m%20reaching%20out%20about%20collaborating%20with%20Spiral%20Labs.%0D%0A%0D%0A[Please%20describe%20your%20project%20or%20interest...]%0D%0A`;
 
   return (
     <>
@@ -34,7 +34,7 @@ export function HomePage() {
       {/* Hero */}
       <div className="bg-gradient-to-b from-[#560591] to-[#3a0263] text-white">
         <div className="container mx-auto max-w-6xl px-4 py-16 md:py-24">
-          <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight">Archeon Labs</h1>
+          <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight">Spiral Labs</h1>
           <p className="mt-4 text-lg md:text-xl max-w-[70ch]">
             Transforming the way we learn with innovative HCI tools for education — building human‑centered experiences that help teachers and students, using AI, gamification, and online collaboration.
           </p>

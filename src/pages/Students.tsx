@@ -59,7 +59,7 @@ export function StudentsPage() {
                   <img
                     key={p}
                     src={p}
-                    alt="Archeon Lab photo"
+                    alt="Spiral Lab photo"
                     className="rounded-md border object-cover h-24 w-full"
                     loading="lazy"
                     decoding="async"
@@ -74,7 +74,7 @@ export function StudentsPage() {
             <header className="mb-6">
               <h1 className="text-3xl md:text-4xl font-bold tracking-tight">Students</h1>
               <p className="mt-2 text-muted-foreground max-w-[70ch]">
-                The Archeon Lab is a collaborative group spanning CS, CE, Psychology, and Education. Meet our current students and alumni.
+                The Spiral Lab is a collaborative group spanning CS, CE, Psychology, and Education. Meet our current students and alumni.
               </p>
             </header>
 
